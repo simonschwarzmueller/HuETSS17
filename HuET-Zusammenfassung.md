@@ -59,7 +59,7 @@ Ward Edwarts 1954: SEU-Theorie (1 deskriptive Entscheidungstheorie vong Typ her)
 
 ## Sitzung 2
 
-###Erklärungen in der Soziologie:
+### Erklärungen in der Soziologie:
 
 Fragetypen:
 
@@ -121,7 +121,7 @@ Rahmenmodell für Entscheidungsprozess:
 
 ## Sitzung 3
 
-###Die Axiomatisierung der Nutzentheorie von von Neumann/Morgenstern
+### Die Axiomatisierung der Nutzentheorie von von Neumann/Morgenstern
 
 - theoretische Grundlage der Nutzentheorie
 - Theorie dominierte ökonomische Theorie zu Entscheidung unter Risiko bis in die 1990er
@@ -147,9 +147,9 @@ Sinn der Axiome:
 - weitere Implikationen können abgeleitet werden
 
 
-##Sitzung 4
+## Sitzung 4
 
-###Rational Choice Theory:
+### Rational Choice Theory:
 
 - übergreifendes Theoriemodell der Sozialwissenschaften
 - zielgerichtete Handlungen auf Basis von Präferenzen, Handlungstheorie variabel (meistens SEU)
@@ -200,7 +200,7 @@ Entscheidungsregel: SEU
 - Urlaubs-Beispiel
 
 
-###Spieltheorie
+### Spieltheorie
 
 Spiele eigenen sich zur formalisierten Darstellung vieler (einfacher) Situationen
 
@@ -260,7 +260,7 @@ Wichtige Spieltypen:
 
 ## Sitzung 6
 
-###Anomalien
+### Anomalien
 
 - Entscheiden ist ein komplexer Prozess
 - Bayes' Rule
@@ -304,4 +304,41 @@ Also insgesamt:
 - Menschen verletzten diese Prinzipien (Allias-Paradox(Unabhängigkeit verletzt), framing-Effekt(Invarianz verletzt))
 - moderne SEUs wie die Prospect Theory können das klären
 - hat nämlich S-förmigen Verlauf der Wertfunktion
+- Wertfunktion ist situationsabhängig an Referenzpunkt geankert
+- hat Gewichtfunktion
+- meistens reicht die einfache SEU-Theorie
+
+
+## Sitzung 7
+
+### Normen und Einstellungen
+
+- Warum sind Einstellungen wichtig?
+    - repräsentieren individuell soziale Werte
+    - beeinflussen Wahrnehmung, Verhalten und Denken
+    - beeinflussen das Zusammenleben in der Gruppe
+
+- Sind ein abstraktes Konstrukt, nicht beobachtbar
+- Was sind Einstellungen?
+    - positive oder negative Reaktionen auf Personen, Objekte oder Ideen
+
+- Klassische Definitionen:
+    - state of mind of an individual toward an object (1981)
+    - psychological tendency that is expressed by evaluating a particular entity with some degree of favor or disfavor (1993)
+
+- Was sind Einstellungen?
+    - Psychologische Tendenz, die sich auf etwas bezieht und eine bewertende Funktion hat
+    - Müssen in Gedächtnis verankert sein
+    - [Bild Seite 20]
+
+- Einstellungsobjekte:
+    - Begriffe/Dinge
+    - einzelne Menschen oder Gruppen
+    - kontroverse Fragen
+
+- Aufbau von Einstellungen (tripartite Einstellungsmodell), 3 Komponenten:
+    -  Cognitive (Vorstellungen über das Objekt)
+    -  Affective (Emotionen und Gefühle, die das Objekt auslöst)
+    -  Behavorial (Verhaltensdispositionen in Bezug auf das Objekt)
+
 - 
